@@ -65,7 +65,7 @@ const randomChoreDoorGenerator = () => {
   } else {
     openDoor1 = beachDoorPath;
     openDoor2 = spaceDoorPath;
-    openDoor3 = botDoorBath;
+    openDoor3 = botDoorPath;
   }
 }
 
